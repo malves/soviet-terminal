@@ -2,7 +2,7 @@
 
 A retro-styled terminal escape game set in 1970, where players must crack the code to access classified Soviet space program documents. This interactive experience combines historical elements with puzzle-solving mechanics.
 
-![Soviet Terminal](https://i.imgur.com/VQgGGE5.png)
+![Soviet Terminal](./images/terminal-screenshot.png)
 
 ## 🎮 Game Features
 
